@@ -45,7 +45,6 @@ My work focuses on architecting and building end-to-end, data-driven systems. I 
       <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV">
       <img src="https://img.shields.io/badge/GStreamer-000000?style=flat-square&logo=gstreamer&logoColor=white" alt="GStreamer">
       <img src="https://img.shields.io/badge/LangChain-FFFFFF?style=flat-square&logo=langchain&logoColor=black" alt="LangChain">
-      <br><em>Keras, YOLO, U-Net, FFMpeg, Edge AI/TinyML</em>
     </td>
     <td align="center" valign="top" width="33%">
       <strong>Frontend</strong><br><br>
@@ -54,7 +53,6 @@ My work focuses on architecting and building end-to-end, data-driven systems. I 
       <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite"> 
       <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"> 
       <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux"> 
-      <br><em>Zustand, MUI, D3.js</em>
     </td>
   </tr>
   <tr>
@@ -63,14 +61,11 @@ My work focuses on architecting and building end-to-end, data-driven systems. I 
       <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"> 
       <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django"> 
       <img src="https://img.shields.io/badge/Gin-007C9E?style=flat-square&logo=gin&logoColor=white" alt="Gin"> 
-      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express"> 
-      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase"> 
+      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="NestJS"> 
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"> 
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"> 
       <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis"> 
       <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Kafka">
-      <img src="https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="Spark">
-      <br><em>ScyllaDB, DuckDB, Qdrant, Pulsar, RabitMQ, HiveMQ</em>
     </td>
     <td align="center" valign="top" width="33%">
       <strong>DevOps, Cloud & Architecture</strong><br><br> 
@@ -81,7 +76,6 @@ My work focuses on architecting and building end-to-end, data-driven systems. I 
       <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS"> 
       <img src="https://img.shields.io/badge/gRPC-000000?style=flat-square&logo=grpc&logoColor=white" alt="gRPC">
       <img src="https://img.shields.io/badge/ELK_Stack-005571?style=flat-square&logo=elasticsearch&logoColor=white" alt="ELK Stack"> 
-      <br><em>System Architecture, Microservices, REST API, GCP (Familiar)</em>
     </td>
     <td align="center" valign="top" width="33%">
       <strong>IoT & Blockchain</strong><br><br>
@@ -89,7 +83,6 @@ My work focuses on architecting and building end-to-end, data-driven systems. I 
       <img src="https://img.shields.io/badge/WebRTC-000000?style=flat-square&logo=webrtc&logoColor=white" alt="WebRTC">
       <img src="https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white" alt="Solana">
       <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" alt="Solidity">
-      <br><em>Firmware Dev, PCB Design, LoRa, Modbus, Hyperledger</em>
     </td>
   </tr>
 </table>
