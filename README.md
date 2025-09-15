@@ -101,7 +101,7 @@ My work centers on architecting and leading the development of complex, data-dri
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=armanrasta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Arman's GitHub Stats" />
-  <br/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=armanrasta&layout=compact&theme=dracula" alt="Arman's Top Languages" />
+  <img align="center" src="https://github-readme-stats-armanrasta.vercel.app/api?username=armanrasta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Arman's GitHub Stats" />
+</br>
+  <img align="center" src="https://github-readme-stats-armanrasta.vercel.app/api/top-langs/?username=armanrasta&layout=compact&theme=dracula" alt="Arman's Top Languages" />
 </p>
