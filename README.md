@@ -91,8 +91,7 @@ My work focuses on architecting and building end-to-end, data-driven systems. I 
 
 ### 💡 Projects & Open Source
 
-* **[Snakers (Open Source)](https://github.com/armanrasta/snakers):** An interactive Python package I published on PyPI to help new developers learn Python fundamentals.
-* **Patent (Pending): Intelligent Drilling System:** An IoT-based system using real-time sensor data for on-site analysis to enhance safety.
+* **[Snakers (Open Source)](https://github.com/armanrasta/snakers):** An interactive Python package I published on PyPI to help new developers learn Python fundamentals. I'd be happy if anyone could do any changes or add something to it.
 
 ---
 
