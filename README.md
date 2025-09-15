@@ -3,7 +3,6 @@
 <p align="left">
   <a href="https://linkedin.com/in/arman--rostami"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://armanrasta.github.io"><img src="https://img.shields.io/badge/Website-333333?style=for-the-badge&logo=cachet&logoColor=white" alt="Website"/></a>
-  <a href="https://github.com/armanrasta"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="mailto:armanrostami@outlook.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/></a>
 </p>
 
@@ -89,9 +88,9 @@ My work focuses on architecting and building end-to-end, data-driven systems. I 
 
 ---
 
-### 💡 Projects & Open Source
+### 💡 Open Source Projects
 
-* **[Snakers (Open Source)](https://github.com/armanrasta/snakers):** An interactive Python package I published on PyPI to help new developers learn Python fundamentals. I'd be happy if anyone could do any changes or add something to it.
+* **[Snakers](https://github.com/armanrasta/snakers):** An interactive Python package I published on PyPI to help new developers learn Python fundamentals. I'd be happy if anyone could do any changes or add something to it.
 
 ---
 
