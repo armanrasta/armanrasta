@@ -7,15 +7,18 @@
   <a href="mailto:armanrostami@outlook.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/></a>
 </p>
 
-Problem-solving CTO and AI Engineer with 3+ years of experience in transforming complex technical requirements into deployable, high-impact solutions. Deep expertise in embedded AI, systems programming, and computer vision.
+A problem-solving CTO and AI Engineer focused on transforming complex technical requirements into deployable, high-impact solutions. My expertise lies in architecting and building end-to-end systems, from low-level embedded AI to high-performance, full-stack applications.
 
-### Core Competencies
-* **System Architecture:** Microservices, Real-Time Data Processing, API Design (REST, gRPC)
-* **AI/ML:** PyTorch, TensorFlow, Keras, Edge AI/TinyML
-* **Computer Vision & Video:** OpenCV, GStreamer, FFMpeg, YOLO, U-Net
-* **IoT & Embedded:** Firmware Development (Rust, C/C++), PCB Design, Edge Computing, ESP32, STM32, Raspberry Pi
-* **Fullstack:** Python (FastAPI, Django), Go (Gin), JavaScript/TypeScript (React, Next.js, Vite)
-* **Data &Ops:** Docker, Kubernetes, Ansible, Jenkins, PostgreSQL, MongoDB, Redis, Kafka, Spark
+---
+
+### 🚀 Technical Overview
+
+My work centers on architecting and leading the development of complex, data-driven platforms. I specialize in the following domains:
+
+* **Full-Stack AI Platforms:** Architecting systems from the ground up, integrating real-time video processing (GStreamer, WebRTC) with Python-based backends (FastAPI) and modern frontends (Vite, React).
+* **Embedded AI & IoT:** Engineering firmware in **Rust** and **C++** for smart devices (ESP32, STM32), deploying edge AI models (YOLO, TinyML) for on-device computer vision and real-time sensor analysis.
+* **High-Performance Backends:** Designing microservices in **Go** and **Python**, managing data flow with tools like Kafka and PostgreSQL, and building scalable e-commerce & blockchain (Solana) integrations.
+* **Data & System Architecture:** Designing microservice-based systems, real-time data processing pipelines, and API-first (REST, gRPC) development.
 
 ---
 
@@ -32,7 +35,6 @@ Problem-solving CTO and AI Engineer with 3+ years of experience in transforming 
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
       <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
-      <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino">
     </td>
     <td align="center" valign="top" width="33%">
       <strong>AI, CV & Video</strong><br><br>
@@ -64,17 +66,17 @@ Problem-solving CTO and AI Engineer with 3+ years of experience in transforming 
       <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis">
       <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Kafka">
       <img src="https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="Spark">
-      <br><em>Express, Supabase, ScyllaDB, DuckDB, Qdrant, Pulsar, RabbitMQ</em>
+      <br><em>Express, Supabase, ScyllaDB, DuckDB, Qdrant</em>
     </td>
     <td align="center" valign="top" width="33%">
-      <strong>DevOps, Cloud & Architecture</strong><br><br>
+      <strong>DevOps & Cloud</strong><br><br>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
       <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes">
       <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins">
       <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" alt="Ansible">
       <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS">
       <img src="https://img.shields.io/badge/gRPC-000000?style=flat-square&logo=grpc&logoColor=white" alt="gRPC">
-      <br><em>GCP (Familiar), ELK Stack, Microservices, Real-Time Data Processing</em>
+      <br><em>GCP (Familiar), ELK Stack</em>
     </td>
     <td align="center" valign="top" width="33%">
       <strong>IoT & Blockchain</strong><br><br>
@@ -82,36 +84,15 @@ Problem-solving CTO and AI Engineer with 3+ years of experience in transforming 
       <img src="https://img.shields.io/badge/WebRTC-000000?style=flat-square&logo=webrtc&logoColor=white" alt="WebRTC">
       <img src="https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white" alt="Solana">
       <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" alt="Solidity">
-      <br><em>PCB Design, Firmware, LoRa, Modbus, Hyperledger</em>
+      <br><em>PCB Design, Firmware, LoRa, Modbus</em>
     </td>
   </tr>
 </table>
 
 ---
 
-### 🚀 Technical Experience & Key Projects
+### 💡 Projects & Open Source
 
-#### Chief Technology Officer @ Gam Energy
-* **NeoSafe HSE Platform:** Architected and built a full-stack health, safety, and environment (HSE) platform.
-    * **Stack:** Real-time GStreamer video pipeline, FastAPI backend, Vite/WebRTC dashboard, OpenCV for analytics.
-* **Embedded AI Smart Hardhat:** Engineered an integrated smart hardhat for real-time hazard detection.
-    * **Stack:** Embedded Computer Vision (YOLO) and sensors on ESP32 & STM32. Developed firmware in **Rust** & **C++** and contributed to PCB design.
-* **'Smart Asphalt' De-icing System:** Led development of an intelligent IoT de-icing system.
-    * **Stack:** **Rust** application on a Raspberry Pi, embedded AI model for sensor data processing, **Go** backend.
-* **Elderly Health Monitoring Platform:** Oversaw development of a comprehensive health monitoring system.
-    * **Stack:** Wear OS app (Java), BILSTM-CNN model (PyTorch), FastAPI/Next.js stack, LangChain RAG system.
-
-#### Full-Stack Developer @ Rastak S.V.
-* **SCM Forecasting System:** Built a supply chain management (SCM) forecasting system.
-    * **Stack:** Odoo (Python), time-series forecasting models.
-* **Document Automation Platform:** Engineered a document management and automation platform.
-    * **Stack:** Next.js, WebDAV, MinIO, SVN.
-
-#### Back-End Developer @ Nexus Bin
-* **E-commerce & Blockchain Integration:** Developed a scalable e-commerce backend.
-    * **Stack:** Django REST Framework, real-time order processing, Solana smart contract integration.
-
-#### Open Source & Patents
 * **[Snakers (Open Source)](https://github.com/armanrasta/snakers):** Developed and published an interactive open-source Python package on PyPI to help junior developers learn Python fundamentals.
 * **Patent (Pending): Intelligent Drilling System:** An IoT-based system using real-time sensor data and on-site analysis to enhance safety in explosive gas detection during drilling.
 
