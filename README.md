@@ -10,18 +10,6 @@ Hi there! I enjoy transforming complex technical requirements into deployable so
 
 ---
 
-### 🚀 Technical Overview
-
-My work focuses on architecting and building end-to-end, data-driven systems. I enjoy tackling challenges that span from low-level hardware to scalable cloud infrastructure.
-
-* **Full-Stack AI Platforms:** I enjoy bringing an entire platform to life, from video ingest to the UI. This often means architecting real-time video pipelines with **GStreamer/FFmpeg/WebRTC**, building the backend APIs to support them (**FastAPI, Gin, NestJS**), and creating the dashboards (**Vite, React, Next.js**) that make the data useful. I've also built mobile components for these systems, like a Wear OS app in **Java**.
-
-* **Embedded AI & IoT:** I like working at the edge, writing firmware in **Rust** and **C++** for devices like the ESP32, STM32, and Raspberry Pi. The challenge here is to optimize and deploy AI models (YOLO, U-Net) directly onto the hardware for real-time computer vision and sensor analysis, turning simple devices into smart ones.
-
-* **High-Performance & Distributed Backends:** To tie everything together, I build scalable microservices in **Go** and **Python**. This involves designing systems for high-throughput data (like real-time order processing), managing event streams (**Kafka, Pulsar**), and integrating with other technologies, from SQL databases to blockchains like **Solana** and **Hyperledger**.
-
----
-
 ### 🛠️ Technology Stack
 
 <table>
@@ -85,6 +73,18 @@ My work focuses on architecting and building end-to-end, data-driven systems. I 
     </td>
   </tr>
 </table>
+
+---
+
+### 🚀 Technical Overview
+
+My work focuses on architecting and building end-to-end, data-driven systems. I enjoy tackling challenges that span from low-level hardware to scalable cloud infrastructure.
+
+* **Full-Stack AI Platforms:** I enjoy bringing an entire platform to life, from video ingest to the UI. This often means architecting real-time video pipelines with **GStreamer/FFmpeg/WebRTC**, building the backend APIs to support them (**FastAPI, Gin, NestJS**), and creating the dashboards (**Vite, React, Next.js**) that make the data useful. I've also built mobile components for these systems, like a Wear OS app in **Java**.
+
+* **Embedded AI & IoT:** I like working at the edge, writing firmware in **Rust** and **C++** for devices like the ESP32, STM32, and Raspberry Pi. The challenge here is to optimize and deploy AI models (YOLO, U-Net) directly onto the hardware for real-time computer vision and sensor analysis, turning simple devices into smart ones.
+
+* **High-Performance & Distributed Backends:** To tie everything together, I build scalable microservices in **Go** and **Python**. This involves designing systems for high-throughput data (like real-time order processing), managing event streams (**Kafka, Pulsar**), and integrating with other technologies, from SQL databases to blockchains like **Solana** and **Hyperledger**.
 
 ---
 
