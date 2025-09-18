@@ -96,9 +96,13 @@ My work focuses on architecting and building end-to-end, data-driven systems. I 
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats-armanrasta.vercel.app/api?username=armanrasta&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Arman's GitHub Stats" />
-</p>
-<p align="center">
-  <img align="center" src="https://github-readme-stats-armanrasta.vercel.app/api/top-langs/?username=armanrasta&layout=compact&theme=dark" alt="Arman's Top Languages" />
-</p>
+<table>
+  <tr>
+    <td>
+      <img align="center" src="https://github-readme-stats-armanrasta.vercel.app/api?username=armanrasta&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Arman's GitHub Stats" />
+    </td>
+    <td>
+      <img align="center" src="https://github-readme-stats-armanrasta.vercel.app/api/top-langs/?username=armanrasta&layout=compact&theme=dark" alt="Arman's Top Languages" />
+    </td>
+  </tr>
+</table>
